@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rizwan Hamidi / @H4M1D1 .
-- 👀 I’m interested in hardware development and the automotive industry .
+- 👀 I’m interested in hardware development for consumer electronics, robotics, and automotives .
 - 🌱 I’m currently learning C/C++, VHDL, and Assembly .
 - 📫 Email me at r2hamidi@uwaterloo.ca !
